@@ -1,4 +1,6 @@
 # DAveLopper
 
 for my projects
-cd
+missin
+dave
+vision
